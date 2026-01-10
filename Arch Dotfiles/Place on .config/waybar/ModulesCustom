@@ -2,7 +2,7 @@
 {
 // This is a custom cava visualizer
 "custom/cava_mviz": {
-	"exec": "$HOME/cava.sh",
+	"exec": "$HOME/.config/waybar/cava.sh",
 	"format": "{}"
 }
 }
