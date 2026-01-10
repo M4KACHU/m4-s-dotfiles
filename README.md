@@ -6,6 +6,11 @@ Preview:
 <img width="1920" height="1080" alt="Preview" src="https://github.com/user-attachments/assets/d2b33866-52d2-4113-b49e-229796fdff7d" />
 
 
+I took some configs from the internet (hope that is  okay)
+
+
+
+
 
 Dependencies:
 
@@ -33,4 +38,4 @@ waybar
 
 
 
-There are extra configs like the browser on the ~/.config/sway/config - be sure to check them!
+There are extra configs like the browser on  the ~/.config/sway/config (or the cava configs on cava.sh) - be sure to check them!
