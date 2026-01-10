@@ -25,7 +25,7 @@ rofi
 
 slurp
 
-sway
+swayfx
 
 waybar
 
