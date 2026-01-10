@@ -30,4 +30,7 @@ sway
 waybar
 
 
+
+
+
 There are extra configs like the browser on the ~/.config/sway/config - be sure to check them!
