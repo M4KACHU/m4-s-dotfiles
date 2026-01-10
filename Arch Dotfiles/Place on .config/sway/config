@@ -34,7 +34,7 @@ exec dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DE
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /home/m4kachu/Imagens/wallpapers/wallpaperparanormalconhecimento.png fill
+#output * bg /home/m4kachu/Imagens/wallpapers/wallpaperparanormalconhecimento.png fill
 #
 # Example configuration:
 output HDMI-A-1 resolution 1920x1080@180Hz
