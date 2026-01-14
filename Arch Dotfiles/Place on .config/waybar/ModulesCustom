@@ -1,8 +1,0 @@
-
-{
-// This is a custom cava visualizer
-"custom/cava_mviz": {
-	"exec": "$HOME/.config/waybar/cava.sh",
-	"format": "{}"
-}
-}
