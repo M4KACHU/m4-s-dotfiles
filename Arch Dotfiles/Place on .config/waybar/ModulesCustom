@@ -1,0 +1,9 @@
+
+{
+// This is a custom cava visualizer
+"custom/cava": {
+	"format": "{}",
+	"exec": "$HOME/.config/waybar/WaybarCava.sh",
+	"hide-empty": true
+},
+}

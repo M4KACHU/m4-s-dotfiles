@@ -1,0 +1,40 @@
+@import "mocha.css";
+@define-color bar-bg rgba(0,0,0,0);
+
+* {
+  /* reference the color by using @color-name */
+  color: @text;
+}
+
+window#waybar {
+  /* you can also GTK3 CSS functions! */  
+  background:none;
+  font-family: Jetbrains Mono Nerdfont;
+  font-size: 16px;
+}
+
+#clock {
+  background-color:@base;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 1px solid @yellow;
+  border-radius: 10px;
+}
+
+#workspaces{
+  background-color:@base;
+  border: 1px solid @yellow;
+  border-radius: 10px;
+}
+
+#workspaces button.active {
+  background-color: @surface1;
+}
+
+#custom-cava {
+  background-color:@base;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid @yellow;
+  border-radius: 10px;
+} 
